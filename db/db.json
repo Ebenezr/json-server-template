@@ -1,52 +1,119 @@
 {
-  "toys": [
+  "users": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "username": "ebbe",
+      "name": "Ebenezar Bukosia",
+      "password": "show!",
+      "admin": true,
+      "staffid": "SD-978",
+      "department": "System Design",
+      "avatar": "",
+      "timestamp": []
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "username": "mimo",
+      "name": "Shilla Chemimo",
+      "password": "1234",
+      "staffid": "IT-234",
+      "department": "It",
+      "avatar": "",
+      "admin": false,
+      "timestamp": [
+        "JuLy 23 2022 12:56 - JuLy 23 2022 12:56 ",
+        "JuLy 23 2022 12:56 - JuLy 23 2022 12:56 "
+      ]
     },
     {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Mercy M",
+      "password": "123345r",
+      "admin": true,
+      "staffid": "CM-6018",
+      "department": "Support Desk",
+      "avatar": "https://ebe.png",
+      "timestamp": [],
+      "id": 10
     },
     {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Josua Korir",
+      "password": "123ef",
+      "admin": true,
+      "staffid": "CM-5803",
+      "department": "Human Resource",
+      "avatar": "https://ebe.png",
+      "timestamp": [],
+      "id": 17
     },
     {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Mary Annate",
+      "password": "erty",
+      "admin": true,
+      "staffid": "CM-8745",
+      "department": "Hospitality",
+      "avatar": "https://ebe.png",
+      "timestamp": [],
+      "id": 18
     },
     {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "Alex Brown",
+      "password": "ale3",
+      "admin": true,
+      "staffid": "CM-5048",
+      "department": "Hospitality",
+      "avatar": "https://ebe.png",
+      "timestamp": [],
+      "id": 20
     },
     {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "Osar Suf",
+      "password": "sdd",
+      "admin": false,
+      "staffid": "CM-9392",
+      "department": "Support Desk",
+      "avatar": "https://ebe.png",
+      "timestamp": [],
+      "id": 21
     },
     {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Njeri Wel",
+      "password": "ascsa",
+      "admin": true,
+      "staffid": "CM-3948",
+      "department": "Hospitality",
+      "avatar": "https://ebe.png",
+      "timestamp": [],
+      "id": 22
+    },
+    {
+      "name": "React Champ",
+      "password": "reactwueh",
+      "admin": false,
+      "staffid": "CM-5410",
+      "department": "Support Desk",
+      "avatar": "https://ebe.png",
+      "timestamp": [],
+      "id": 25
+    },
+    {
+      "name": "Mark Jones",
+      "password": "macjk",
+      "admin": true,
+      "staffid": "CM-8384",
+      "department": "Sales",
+      "avatar": "https://ebe.png",
+      "timestamp": [],
+      "id": 39
+    },
+    {
+      "name": "Joy Auma",
+      "password": "12345",
+      "admin": true,
+      "staffid": "CM-9615",
+      "department": "Hospitality",
+      "avatar": "https://ebe.png",
+      "timestamp": [],
+      "id": 41
     }
   ]
 }
