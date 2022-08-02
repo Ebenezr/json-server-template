@@ -10,7 +10,7 @@
   "staffid": "SD-978",
   "department": "System Design",
   "avatar": "https://picsum.photos//452",
-  "timestamp": [ ]
+  "timestamp": []
   },
   {
   "id": 2,
@@ -21,10 +21,7 @@
   "department": "It",
   "avatar": "https://picsum.photos//451",
   "admin": true,
-  "timestamp": [
-  "JuLy 23 2022 12:56 - JuLy 23 2022 12:56 ",
-  "JuLy 23 2022 12:56 - JuLy 23 2022 12:56 "
-  ]
+  "timestamp": []
   },
   {
   "name": "Mercy M",
