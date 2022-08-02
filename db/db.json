@@ -1,109 +1,117 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "username": "ebbe",
-      "name": "Ebenezar Bukosia",
-      "password": "show!",
-      "admin": true,
-      "staffid": "SD-978",
-      "department": "System Design",
-      "avatar": "",
-      "timestamp": []
-    },
-    {
-      "id": 2,
-      "username": "mimo",
-      "name": "Shilla Chemimo",
-      "password": "1234",
-      "staffid": "IT-234",
-      "department": "It",
-      "avatar": "",
-      "admin": false,
-      "timestamp": [
-        "JuLy 23 2022 12:56 - JuLy 23 2022 12:56 ",
-        "JuLy 23 2022 12:56 - JuLy 23 2022 12:56 "
-      ]
-    },
-    {
-      "name": "Mercy M",
-      "password": "123345r",
-      "admin": true,
-      "staffid": "CM-6018",
-      "department": "Support Desk",
-      "avatar": "https://ebe.png",
-      "timestamp": [],
-      "id": 10
-    },
-    {
-      "name": "Josua Korir",
-      "password": "123ef",
-      "admin": true,
-      "staffid": "CM-5803",
-      "department": "Human Resource",
-      "avatar": "https://ebe.png",
-      "timestamp": [],
-      "id": 17
-    },
-    {
-      "name": "Mary Annate",
-      "password": "erty",
-      "admin": true,
-      "staffid": "CM-8745",
-      "department": "Hospitality",
-      "avatar": "https://ebe.png",
-      "timestamp": [],
-      "id": 18
-    },
-    {
-      "name": "Alex Brown",
-      "password": "ale3",
-      "admin": true,
-      "staffid": "CM-5048",
-      "department": "Hospitality",
-      "avatar": "https://ebe.png",
-      "timestamp": [],
-      "id": 20
-    },
-    {
-      "name": "Osar Suf",
-      "password": "sdd",
-      "admin": false,
-      "staffid": "CM-9392",
-      "department": "Support Desk",
-      "avatar": "https://ebe.png",
-      "timestamp": [],
-      "id": 21
-    },
-    {
-      "name": "Njeri Wel",
-      "password": "ascsa",
-      "admin": true,
-      "staffid": "CM-3948",
-      "department": "Hospitality",
-      "avatar": "https://ebe.png",
-      "timestamp": [],
-      "id": 22
-    },
-    {
-      "name": "Mark Jones",
-      "password": "macjk",
-      "admin": true,
-      "staffid": "CM-8384",
-      "department": "Sales",
-      "avatar": "https://ebe.png",
-      "timestamp": [],
-      "id": 39
-    },
-    {
-      "name": "Joy Auma",
-      "password": "12345",
-      "admin": true,
-      "staffid": "CM-9615",
-      "department": "Hospitality",
-      "avatar": "https://ebe.png",
-      "timestamp": [],
-      "id": 41
-    }
+  "users":
+[
+  {
+  "id": 1,
+  "username": "ebbe",
+  "name": "Ebenezar Bukosia",
+  "password": "show!",
+  "admin": true,
+  "staffid": "SD-978",
+  "department": "System Design",
+  "avatar": "https://picsum.photos//452",
+  "timestamp": [ ]
+  },
+  {
+  "id": 2,
+  "username": "mimo",
+  "name": "Shilla Chemimo",
+  "password": "1234",
+  "staffid": "IT-234",
+  "department": "It",
+  "avatar": "https://picsum.photos//451",
+  "admin": true,
+  "timestamp": [
+  "JuLy 23 2022 12:56 - JuLy 23 2022 12:56 ",
+  "JuLy 23 2022 12:56 - JuLy 23 2022 12:56 "
   ]
-}
+  },
+  {
+  "name": "Mercy M",
+  "password": "123345r",
+  "admin": false,
+  "staffid": "CM-6018",
+  "department": "Support Desk",
+  "avatar": "https://picsum.photos//199",
+  "timestamp": [ ],
+  "id": 10,
+  "username": "mercymm"
+  },
+  {
+  "name": "Josua Korir",
+  "password": "123ef",
+  "admin": false,
+  "staffid": "CM-5803",
+  "department": "Human Resource",
+  "avatar": "https://picsum.photos//112",
+  "timestamp": [ ],
+  "id": 17,
+  "username": "joshua"
+  },
+  {
+  "name": "Mary Annate",
+  "password": "erty",
+  "admin": false,
+  "staffid": "CM-8745",
+  "department": "Hospitality",
+  "avatar": "https://picsum.photos//411",
+  "timestamp": [ ],
+  "id": 18,
+  "username": "marry"
+  },
+  {
+  "name": "Alex Brown",
+  "password": "ale3",
+  "admin": false,
+  "staffid": "CM-5048",
+  "department": "Hospitality",
+  "avatar": "https://picsum.photos//222",
+  "timestamp": [ ],
+  "id": 20,
+  "username": "alex"
+  },
+  {
+  "name": "Osar Suf",
+  "password": "sdd",
+  "admin": false,
+  "staffid": "CM-9392",
+  "department": "Support Desk",
+  "avatar": "https://picsum.photos//333",
+  "timestamp": [ ],
+  "id": 21,
+  "username": "oscar"
+  },
+  {
+  "name": "Njeri Wel",
+  "password": "ascsa",
+  "admin": false,
+  "staffid": "CM-3948",
+  "department": "Hospitality",
+  "avatar": "https://picsum.photos//278",
+  "timestamp": [ ],
+  "id": 22,
+  "username": "njeri"
+  },
+  {
+  "name": "Mark Jones",
+  "password": "macjk",
+  "admin": false,
+  "staffid": "CM-8384",
+  "department": "Sales",
+  "avatar": "https://picsum.photos//365",
+  "timestamp": [ ],
+  "id": 39,
+  "username": "jones"
+  },
+  {
+  "name": "Joy Auma",
+  "password": "12345",
+  "admin": false,
+  "staffid": "CM-9615",
+  "department": "Hospitality",
+  "avatar": "https://picsum.photos//125",
+  "timestamp": [ ],
+  "id": 41,
+  "username": "joya"
+  }
+  ]}
